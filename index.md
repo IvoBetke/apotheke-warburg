@@ -1,4 +1,4 @@
-## Hirsch-Apotheke Warburg
+<section class="main-content-new">## Hirsch-Apotheke Warburg</section>
 
 Kasseler Straße 4  
 34414 Warburg  
@@ -12,4 +12,4 @@ Impressum: Alle Angaben gemäß § 5 TMG
 Apothekerkammer: Westfalen-Lippe  
 Aufsichtsbehörde: Kreis Höxter, Moltkestr. 12, 37671 Höxter  
 
-## Wir freuen uns auf ihren Besuch!
+<section class="main-content-new">## Wir freuen uns auf ihren Besuch!</section>
