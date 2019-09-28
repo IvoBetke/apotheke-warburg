@@ -20,6 +20,6 @@ Samstags 9:00 bis 13:00 Uhr
 Alle Angaben gemäß § 5 TMG  
 vertreten durch: Ursula Flore e. Kfr.  
 Apothekerkammer: Westfalen-Lippe  
-Aufsichtsbehörde: Kreis Höxter, Moltkestr. 12, 37671 Höxter  
+Aufsichtsbehörde: Kreis Höxter
 
 ## Wir freuen uns auf ihren Besuch!
