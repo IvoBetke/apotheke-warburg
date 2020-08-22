@@ -1,3 +1,5 @@
+<img src="hirsch_pano.jpg"></img>
+
 ## Hirsch-Apotheke Warburg
 Kasseler Straße 4  
 34414 Warburg  
