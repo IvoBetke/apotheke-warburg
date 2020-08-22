@@ -23,11 +23,8 @@ Samstags 9:00 bis 13:00 Uhr
 ## Impressum
 Alle Angaben gemäß § 5 TMG  
 vertreten durch: Ursula Flore e. Kfr.
-
 Amtsgericht Paderborn HRA 3142 
-
 UST-ID: DExxxxxxxx
-
 Apothekerkammer: Westfalen-Lippe  
 Aufsichtsbehörde: Kreis Höxter
 
