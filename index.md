@@ -1,4 +1,4 @@
-<img src="hirsch_pano.jpg" alt="Foto der Hirsch-Apotheke im Gesundheitszentrum K4" width="563" height="317"></img>
+<img src="hirsch_pano.jpg" alt="Foto der Hirsch-Apotheke im Gesundheitszentrum K4" width="563" height="317">
 
 ## Hirsch-Apotheke Warburg
 Kasseler Straße 4  
